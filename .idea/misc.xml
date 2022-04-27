@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GoodLike/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1296875" />
+        <entry key="..\:/GoodLike/app/src/main/res/drawable/button_border.xml" value="0.2203125" />
+        <entry key="..\:/GoodLike/app/src/main/res/drawable/circular_view.xml" value="0.2203125" />
+        <entry key="..\:/GoodLike/app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.2203125" />
+        <entry key="..\:/GoodLike/app/src/main/res/drawable/ic_baseline_thumb_up_24.xml" value="0.2203125" />
+        <entry key="..\:/GoodLike/app/src/main/res/drawable/ic_launcherNuevo_foreground.xml" value="0.1296875" />
+        <entry key="..\:/GoodLike/app/src/main/res/drawable/ic_launcherNuevox_foreground.xml" value="0.1296875" />
+        <entry key="..\:/GoodLike/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1296875" />
+        <entry key="..\:/GoodLike/app/src/main/res/drawable/ic_launcheruevox_foreground.xml" value="0.1296875" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/action_bar_toolbar.xml" value="0.1" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/activity_chat.xml" value="0.17753623188405798" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/activity_complete_profile.xml" value="0.2" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/activity_edit_profile.xml" value="0.25" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/activity_filters.xml" value="0.25" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/activity_followers.xml" value="0.1140625" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/activity_home.xml" value="0.1408514492753623" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/activity_post.xml" value="0.25" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/activity_post_detail.xml" value="0.2" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/activity_user_profile.xml" value="0.25" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/cardview_chats.xml" value="0.17753623188405798" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/cardview_comment.xml" value="0.22" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/cardview_message.xml" value="0.33" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/cardview_my_post.xml" value="0.25" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/cardview_post.xml" value="0.5" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/custom_chat_toolbar.xml" value="0.17753623188405798" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/fragment_chats.xml" value="0.17753623188405798" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/fragment_filters.xml" value="0.17753623188405798" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/fragment_home.xml" value="0.15896739130434784" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/fragment_search.xml" value="0.2033514492753623" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/slider_layout_item.xml" value="0.17753623188405798" />
+        <entry key="..\:/GoodLike/app/src/main/res/layout/user_item.xml" value="0.25" />
+        <entry key="..\:/GoodLike/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/GoodLike/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/GoodLike/app/src/main/res/mipmap-anydpi-v26/ic_launcherNuevo.xml" value="0.12083333333333333" />
+        <entry key="..\:/GoodLike/app/src/main/res/mipmap-anydpi-v26/ic_launcherNuevo_round.xml" value="0.1296875" />
+        <entry key="..\:/GoodLike/app/src/main/res/mipmap-anydpi-v26/ic_launcherNuevox.xml" value="0.1296875" />
+        <entry key="..\:/GoodLike/app/src/main/res/mipmap-anydpi-v26/ic_launcherNuevox_round.xml" value="0.1296875" />
+        <entry key="..\:/Users/Agustin/Documents/GoodLike/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Agustin/Documents/GoodLike/app/src/main/res/layout/slider_layout_item.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/Agustin/Documents/GoodLike/app/src/main/res/layout/user_item.xml" value="0.17" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">GoodLike</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="transtionname_picture">transitionnamepicture</string>
+    <string name="Name">Username</string>
+    <string name="Password">Password</string>
+    <string name="Register">Register</string>
+    <string name="CPassword">Confirm Password</string>
+    <string name="Telephone">Followins</string>
+    <string name="Followers">Followers</string>
+    <string name="Email">E-mail</string>
+    <string name="Tenescuenta">Don´t have an account yet?</string>
+    <string name="Clickacapai">SIGN UP HERE</string>
+    <string name="Post">Publications</string>
+    <string name="User">User</string>
+    <string name="Login">LOGIN</string>
+    <string name="LogOut">Log Out</string>
+    <string name="SingIn">Sing In</string>
+    <string name="Registrate">Complete the data to register!</string>
+    <string name="Nombre">Welcome to GoodLike!</string>
+    <string name="Informa">Fill in your information</string>
+    <string name="Confirmar">Confirm</string>
+    <string name="Home">Home</string>
+    <string name="Chats">Chats</string>
+    <string name="Filters">Filters</string>
+    <string name="Profile">Profile</string>
+    <string name="Crear">Create Post</string>
+    <string name="NameGame">Name of the game</string>
+    <string name="Description">Description</string>
+    <string name="Category">CATEGORY</string>
+    <string name="Price">Price</string>
+    <string name="Udapte">Udapte</string>
+    <string name="Mensaje">Message</string>
+    <string name="Resultados">Resultados:</string>
+    <string name="Pc">PC</string>
+    <string name="ps4">PS4</string>
+    <string name="xbox">XBOX</string>
+    <string name="Nintendo">NINTENDO</string>
+    <string name="Android">ANDROID</string>
+    <string name="Publicar">To post</string>
+    <string name="ViewProfile">View Profile</string>
+    <string name="Number">ID</string>
+    <string name="TitleGame">Game Title</string>
+    <string name="Coments">Comments</string>
+    <string name="Text">What you think?</string>
+    <string name="NewMensaje">New message</string>
+    <string name="Date">Date</string>
+    <string name="Title">Title</string>
+    <string name="Likes">0 Likes</string>
+    <string name="Buscar">Look for</string>
+    <string name="NoPost">No Post</string>
+    <string name="minutes">0 minutes ago</string>
+    <string name="n0">0</string>
+    <string name="Editar">Edit profile</string>
+    <string name="NULL">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "706506520899",
+    "project_id": "goodlike-65fe0",
+    "storage_bucket": "goodlike-65fe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706506520899:android:83dad65ea96fe2343757f6",
+        "android_client_info": {
+          "package_name": "com.optic.goodlike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706506520899-1cjq5gcebm991u2qosjg433diq13oj05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.optic.goodlike",
+            "certificate_hash": "d9adf65ff9b3bc4a62e3d533c403ff4e47429083"
+          }
+        },
+        {
+          "client_id": "706506520899-sh8lj1dp1kolsebai7585gcvvnc2jnnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP4N7-tboe6_rgcybeb1rw9lKi9y5r4f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706506520899-sh8lj1dp1kolsebai7585gcvvnc2jnnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+rootProject.name='GoodLike'
+include ':app'
